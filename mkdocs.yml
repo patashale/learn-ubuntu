@@ -1,4 +1,7 @@
 site_name: Learn Ubuntu
+site_url: https://www.patashale.in/learn-ubuntu/
+site_author: Patashale™
+site_description: Learn everything about Ubuntu here at Patashale™.
 repo_url: https://github.com/patashale/learn-ubuntu
 repo_name: patashale/learn-ubuntu
 theme:

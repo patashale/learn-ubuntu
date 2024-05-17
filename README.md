@@ -20,6 +20,7 @@
 
 #### Social:
   - Website: https://www.patashale.in/learn-ubuntu
+  - YouTube: https://www.youtube.com/@learn-ubuntu
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 

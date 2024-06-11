@@ -67,47 +67,9 @@ extra:
       name: Patashale™ on YouTube
 
 nav:
-  - Installation:
-    - Overview: en/install/overview.md
-    # - containerd: en/install/containerd.md
-    - cURL: en/install/curl.md
-    # - Flink: en/install/flink.md
-    - Git: en/install/git.md
-    # - Java: en/install/java.md
-    # - Juju: en/install/juju.md
-    # - Kafka: en/install/kafka.md
-    # - .NET: en/install/dotnet.md
-    # - Node: en/install/node.md
-    # - MAAS: en/install/maas.md
-    # - MongoDB: en/install/mongodb.md
-    # - OpenTofu: en/install/opentofu.md
-    # - PostgreSQL: en/install/postgresql.md
-    # - Redis: en/install/redis.md
-    # - Rust: en/install/rust.md
-    # - Swift: en/install/swift.md
-    # - ufw: en/install/ufw.md
-    - Visual Studio Code: en/install/code.md
-    # - Wireshark: en/install/wireshark.md
-  - Uninstallation:
-    - Overview: en/uninstall/overview.md
-    # - containerd: en/uninstall/containerd.md
-    - cURL: en/uninstall/curl.md
-    # - Flink: en/uninstall/flink.md
-    - Git: en/uninstall/git.md
-    # - Java: en/uninstall/java.md
-    # - Juju: en/uninstall/juju.md
-    # - Kafka: en/uninstall/kafka.md
-    # - .NET: en/uninstall/dotnet.md
-    # - Node: en/uninstall/node.md
-    # - MAAS: en/uninstall/maas.md
-    # - MongoDB: en/uninstall/mongodb.md
-    # - OpenTofu: en/uninstall/opentofu.md
-    # - PostgreSQL: en/uninstall/postgresql.md
-    # - Redis: en/uninstall/redis.md
-    # - Rust: en/uninstall/rust.md
-    # - Swift: en/uninstall/swift.md
-    # - ufw: en/uninstall/ufw.md
-    - Visual Studio Code: en/uninstall/code.md
-    # - Wireshark: en/uninstall/wireshark.md
+  - Home: index.md
+  - How-to:
+    - Overview: en/how-to/overview.md
+    - Visual Studio Code: en/how-to/visual-studio-code.md
 
 copyright: Copyright &copy; 2023 Patashale™
